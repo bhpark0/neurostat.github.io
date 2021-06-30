@@ -6,7 +6,9 @@ is_contact: true
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
 ## 2021
-* Byung Jin Choi, Yeryung Koo, Tae Young Kim, Wou Young Chung, Yun Jung Jung, Ji Eun Park, Hong-Seok Lim, **Bumhee Park**<sup>*</sup>, Dukyong Yoon. Risk of QT Prolongation through Drug Interactions between Hydroxychloroquine and Concomitant Drugs Prescribed in Real World Practice. _Scientific Reports_, _Accepted_. 
+* DAJUNG SUNG, **Bumhee Park**<sup>†</sup>, Min-Hyeon Park, Bora Kim, Hayeon Kim, Kyu-In Jung, Seung-Yup Lee, Bung-Nyun Kim and Subin Park. Gray Matter Volume in the Developing Frontal Lobe and Its Relationship with Executive Function in Late Childhood and Adolescence: a community-based study. _Frontiers in Psychiatry_, _In Press_.
+
+* Byung Jin Choi, Yeryung Koo, Tae Young Kim, Wou Young Chung, Yun Jung Jung, Ji Eun Park, Hong-Seok Lim, **Bumhee Park**<sup>*</sup>, Dukyong Yoon. Risk of QT Prolongation through Drug Interactions between Hydroxychloroquine and Concomitant Drugs Prescribed in Real World Practice. _Scientific Reports_, 2021, March; 11(6918). \[[link](https://www.nature.com/articles/s41598-021-86321-z)\]  
 
 * Sang Kyum Kim, Jang-Hee Kim, Jae Ho Han, Nam Hoon Cho, Se Joong Kim, Sun Il Kim, Seol Ho Choo, <U>Ji Su Kim</U>, **Bumhee Park**, Ji Eun Kwon. TERT promoter mutations in penile squamous cell carcinoma: high frequency in non‐HPV‐related type and association with favorable clinicopathologic features. _Journal of Cancer Research and Clinical Oncology_, 2021, Feb; 26. \[[link](https://link.springer.com/article/10.1007/s00432-021-03514-9)\] 
  
