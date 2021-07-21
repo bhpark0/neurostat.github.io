@@ -6,7 +6,9 @@ is_contact: true
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
 ## 2021
-* Dajung Sung, **Bumhee Park**<sup>†</sup>, Min-Hyeon Park, Bora Kim, Hayeon Kim, Kyu-In Jung, Seung-Yup Lee, Bung-Nyun Kim and Subin Park. Gray Matter Volume in the Developing Frontal Lobe and Its Relationship with Executive Function in Late Childhood and Adolescence: a community-based study. _Frontiers in Psychiatry_, _In Press_.
+* Hayeon Kim, **Bumhee Park**<sup>†</sup>, Shin-Young Kim, Jiyea Kim, Bora Kim, Kyu-In Jung, Seung-Yup Lee, Yerin Hyun, Bung-Nyun Kim, Subin Park, Min-Hyeon Park. Cerebellar Gray Matter Volume and its Role in Executive Function, and Attention: Sex Differences by Age in Adolescents. _Clinical Psychopharmacology and Neuroscience_. _Accepted_.
+
+* Dajung Sung, **Bumhee Park**<sup>†</sup>, Min-Hyeon Park, Bora Kim, Hayeon Kim, Kyu-In Jung, Seung-Yup Lee, Bung-Nyun Kim and Subin Park. Gray Matter Volume in the Developing Frontal Lobe and Its Relationship with Executive Function in Late Childhood and Adolescence: a community-based study. _Frontiers in Psychiatry_, 2021, July; 12(686174). \[[link](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.686174/full)\]
 
 * Jung-Taek Kim, Dong hoon Lee, Han-Dong Lee, <U>Han-Bit Shin</U>, **Bumhee Park**, Sunghoon Park and Hyung Keun Song. Validity of the EOS-determined pelvic parameters and orientation with pelvic positional variation: a phantom study. _Scientific Reports_, 2021, May; 11(10468). \[[link](https://www.nature.com/articles/s41598-021-89958-y)\]  
 
