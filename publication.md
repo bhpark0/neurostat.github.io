@@ -10,6 +10,8 @@ is_contact: true
 
 * Dajung Sung, **Bumhee Park**<sup>†</sup>, Min-Hyeon Park, Bora Kim, Hayeon Kim, Kyu-In Jung, Seung-Yup Lee, Bung-Nyun Kim and Subin Park. Gray Matter Volume in the Developing Frontal Lobe and Its Relationship with Executive Function in Late Childhood and Adolescence: a community-based study. _Frontiers in Psychiatry_, 2021, July; 12(686174). \[[link](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.686174/full)\]
 
+* <U>Yong Hyuk Cho</U><sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Eun Sil Her, Gyubeom Hwang, Ki-Young Lim, Jai Sung Noh, Yunmi Shin, Chang Hyung Hong, Hyun Woong Roh, Dongyun Lee, <U>Heirim Lee</U>, Doyeop Kim, Rae Woong Park, **Bumhee Park** <sup>*</sup>, Sang Joon Son<sup>*</sup>. Association between suicide risk and comorbidity of mood disorder and alcohol use disorder: Using common data model in Psychiatry. _Journal of Korean Neuropsychiatric Association_. _Accepted_. (Korean language; Domestic Journal).
+
 * Jung-Taek Kim, Dong hoon Lee, Han-Dong Lee, <U>Han-Bit Shin</U>, **Bumhee Park**, Sunghoon Park and Hyung Keun Song. Validity of the EOS-determined pelvic parameters and orientation with pelvic positional variation: a phantom study. _Scientific Reports_, 2021, May; 11(10468). \[[link](https://www.nature.com/articles/s41598-021-89958-y)\]  
 
 * Byung Jin Choi, Yeryung Koo, Tae Young Kim, Wou Young Chung, Yun Jung Jung, Ji Eun Park, Hong-Seok Lim, **Bumhee Park**<sup>*</sup>, Dukyong Yoon. Risk of QT Prolongation through Drug Interactions between Hydroxychloroquine and Concomitant Drugs Prescribed in Real World Practice. _Scientific Reports_, 2021, March; 11(6918). \[[link](https://www.nature.com/articles/s41598-021-86321-z)\]  
@@ -46,7 +48,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 
 * Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]  
 
-* Jae Ho Ha<sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Dongyun Lee, <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, **Bumhee Park**<sup>*</sup>, Sang Joon Son. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, Aug; 59(3):243-249. \[[link](https://jknpa.org/DOIx.php?id=10.4306/jknpa.2020.59.3.243)\]
+* Jae Ho Ha<sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Dongyun Lee, <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, **Bumhee Park**<sup>*</sup>, Sang Joon Son. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, Aug; 59(3):243-249. \[[link](https://jknpa.org/DOIx.php?id=10.4306/jknpa.2020.59.3.243)\]. (Korean language; Domestic Journal).
 
 * <U>Eunyoung Lee</U><sup>†</sup>, Minjeong Lee, **Bumhee Park**<sup>*</sup>, Inwhee Park. Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study. _Scientific Reports_, 2020, 10. \[[link](https://www.nature.com/articles/s41598-020-70935-w)\]
 
