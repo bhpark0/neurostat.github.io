@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-<center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
+<center> <sup>†</sup>: Co-first author, <sup>*</sup>: Corresponding author - denoted for lab members (<U>underline</U>) only  </center>
 
 ## 2021
 * Hayeon Kim, **Bumhee Park**<sup>†</sup>, Shin-Young Kim, Jiyea Kim, Bora Kim, Kyu-In Jung, Seung-Yup Lee, Yerin Hyun, Bung-Nyun Kim, Subin Park, Min-Hyeon Park. Cerebellar Gray Matter Volume and its Role in Executive Function, and Attention: Sex Differences by Age in Adolescents. _Clinical Psychopharmacology and Neuroscience_. _Accepted_.
