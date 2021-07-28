@@ -3,7 +3,8 @@ layout: default
 is_contact: true
 ---
 
-<center> <sup>†</sup>: equal contribution (co-first), <sup>*</sup>: correspondence/co-correspondence - denoted for lab members (<U>underline</U>) only  </center>
+<left><sup>†</sup>: equal contribution (co-first), <sup>*</sup>: correspondence/co-correspondence
+denoted for lab members (<U>underline</U>) only </left>
 
 ## 2021
 * Tae-Hyeong Kim, Eunhye Choi, Hayeon Kim, Shin-Young Kim, Yeeun Kim, Bung-Nyun Kim, Subin Park, Kyu-In Jung, **Bumhee Park**<sup>*</sup>, Min-Hyeon Park. The association between hippocampal volume and level of attention in children and adolescents. _Frontiers in Systems Neuroscience_. _Accepted_.
