@@ -5,9 +5,9 @@ is_contact: true
 
 Lab members (<U>underline</U> or BOLD text) are denoted by
 
-   <sup>†</sup>: equal contribution (co-first)
+<sup>†</sup>: equal contribution (co-first)
 
-   <sup>*</sup>: correspondence/co-correspondence
+<sup>*</sup>: correspondence/co-correspondence
 
 ## 2021
 * Minjeong Lee, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>*</sup>, Inwhee Park. Mental illness in patients with end-stage kidney disease in South Korea: a nationwide cohort study. _Kidney Research and Clinical Practice_. _Accepted_.
