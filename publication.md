@@ -10,7 +10,7 @@ Contribution of our lab members (<U>underline</U> or **BOLD text**) is denoted b
 - <sup>*</sup>: correspondence/co-correspondence
 
 ## 2021
-* <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, Na-Rae Kim, Jin Wook Choi, Hyun Woong Roh, Jae Ho Ha, Chang Hyung Hong, Sang Won Seo, Seong Hye Choi, Eun-Joo Kim, Byeong C. Kim, Seong Yoon Kim, Jaeyoun Cheong, **Bumhee Park**<sup>*</sup>, Sang Joon Son<sup>*</sup>. Cortical thickness is differently associated with ALDH2 rs671 polymorphism according to level of amyloid deposition. _Scientific Reports_. _Accepted_.
+* <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, Na-Rae Kim, Jin Wook Choi, Hyun Woong Roh, Jae Ho Ha, Chang Hyung Hong, Sang Won Seo, Seong Hye Choi, Eun-Joo Kim, Byeong C. Kim, Seong Yoon Kim, Jaeyoun Cheong, **Bumhee Park**<sup>*</sup>, Sang Joon Son. Cortical thickness is differently associated with ALDH2 rs671 polymorphism according to level of amyloid deposition. _Scientific Reports_. _Accepted_.
 
 * Minjeong Lee, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>*</sup>, Inwhee Park. Mental illness in patients with end-stage kidney disease in South Korea: a nationwide cohort study. _Kidney Research and Clinical Practice_. _Accepted_.
 
